@@ -1,0 +1,3 @@
+cpp-from-c
+La comunicacion es muy sencilla. Agrego la directiva #include "cpp-sum.h" al main en c. Cambio las directivas en el cpp-sum.h (para corregir el nombre del archivo). La funcion sum_abs recibe el puntero al array y un entero.
+
