@@ -1,6 +1,8 @@
 program testsum
   implicit none
 
+asum = 0
+
   integer, parameter :: n=200
   integer :: data(n), asum, i
 

@@ -1,0 +1,3 @@
+c-from-f:
+Para que no haya problema con los decoradores se nombro la funcion como "sum_abs_"
+Ademas la funcion toma punteros (int *ent, int *num, int *asum) para que pueda comunicarse bien con el codigo en fortran.
