@@ -1,0 +1,2 @@
+f-from-c:
+La subrutina en fortran realiza la suma y almacena el resultado en la variable "suma", por lo cual recibe 3 argumentos. En el archivo "c-main.c" se llama a la funcion como "sum_abs_" para evitar problemas con los decoradores y se pasan las direcciones de las variables "num" y "suma". Finalmente se imprime el valor de "suma".
